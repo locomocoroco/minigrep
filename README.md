@@ -1,3 +1,2 @@
 # minigrep
-
 minigrep in rust
